@@ -62,6 +62,17 @@ a:hover {
   font-size: 2rem;
 }
 
+.bangga {
+  height: 10px;
+  background: linear-gradient(
+    to bottom,
+    transparent 2px,
+    rgb(188, 5, 5) 10px,
+    black 90px,
+    transparent 3px
+  );
+}
+
 .logo:hover {
   cursor: default;
 }
